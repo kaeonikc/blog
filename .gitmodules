@@ -1,0 +1,4 @@
+[submodule "chakkritkblog/public"]
+	path = chakkritkblog/public
+	url = https://github.com/kaeonikc/kaeonikc.github.io.git
+	branch = main

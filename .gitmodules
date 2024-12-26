@@ -2,3 +2,10 @@
 	path = chakkritkblog/public
 	url = https://github.com/kaeonikc/kaeonikc.github.io.git
 	branch = main
+[submodule "chakkritlib/themes/hugo-PaperModx"]
+	path = chakkritlib/themes/hugo-PaperModx
+	url = https://github.com/kaeonikc/hugo-PaperModX.git
+[submodule "chakkritlib/public"]
+	path = chakkritlib/public
+	url = https://github.com/kaeonikc/kaeonikc.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://kaeonikc.github.io/'
+languageCode = 'en-us'
+title = "Chakkrit's library"
+theme = "hugo-PaperModx"
